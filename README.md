@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ManageBooks
 ![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)
 ### 简介
@@ -108,3 +109,7 @@
 ### WARNING
 
 ![](./CONTENT.JPG)
+=======
+# Library2
+springbootdemo
+>>>>>>> fa23cd8f1c2e94355e91d5ac54d1652c407a144e
